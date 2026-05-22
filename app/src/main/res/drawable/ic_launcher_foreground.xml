@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18.0"
+        android:translateY="18.0">
+        <!-- Musical note background / glyph -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M36,12 C42,12 48,15 48,21 L48,51 C48,56 42,60 36,60 C30,60 24,56 24,51 C24,46 30,42 36,42 Q42,42 42,46 L42,28 L24,32 L24,57 C24,62 18,66 12,66 C6,66 0,62 0,57 C0,52 6,48 12,48 Q18,48 18,52 L18,22 Q18,14 26,13 L36,12 Z" />
+    </group>
+</vector>
